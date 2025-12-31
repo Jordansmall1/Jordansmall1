@@ -41,5 +41,25 @@ I transform operational data into **dashboards, forecasts, and pricing tools** t
 
 ### Undergraduate Researcher — Department of Economics  
 **Indiana University | 2025–2026**
-- Built **AR(1)/**
+- Built **AR(1)/AR(2) and ARIMA forecasting models** for U.S. housing prices  
+- Performed ACF/PACF diagnostics, log-differencing, and Dickey-Fuller testing  
+- Implemented Holt-Winters, naïve, drift, and exponential smoothing models  
+- Presented findings at **IU Graduate Day of Scholarship**
 
+---
+
+## ⭐ Featured Projects
+
+| Project | Description |
+|-------|-------------|
+| **Indy Parks Revenue & Elasticity Model** | Multi-tab Excel system for dashboards, elasticity estimation, revenue forecasting, cost-recovery analysis, and peer-city pricing comparisons |
+| **U.S. Housing & Land Price Forecasting** | ARIMA, AR(1)/AR(2), Holt-Winters models with 95% confidence interval forecasts |
+| **SQL → Python Analytics Toolkit** | PostgreSQL schemas, advanced SQL (JOINs, CTEs, window functions) integrated with Pandas automation pipelines |
+| **CAPM Analysis in R** | CAPM regression on Apple vs market using Yahoo Finance data |
+
+---
+
+## 📫 Contact
+
+📧 **jordsmal@iu.edu**  
+🔗 **https://linkedin.com/in/jordan-small-6b142425a**
