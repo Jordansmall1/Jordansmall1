@@ -1,16 +1,43 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 
-<!--
-**Jordansmall1/Jordansmall1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Jordan Small</h1>
+<h3 align="center">Quantitative Economics • Data Analytics • Forecasting</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="YOUR_LINKEDIN">LinkedIn</a> • 
+  <a href="mailto:jordan.small@iu.edu">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me
+
+Senior majoring in **Quantitative Economics** at Indiana University Indianapolis with real-world experience building:
+
+• Revenue optimization models  
+• Price elasticity simulations  
+• Forecasting dashboards  
+• SQL → Python analytics pipelines  
+
+Supported real pricing and revenue decisions for the **Indianapolis Mayor’s Office**.
+
+---
+
+## 🛠 Technical Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,excel,github,vscode" />
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+| Project | Description |
+|-------|-------------|
+| Indy Parks Revenue Optimization | Elasticity models forecasting 2026 pricing scenarios |
+| SQL → Python Analytics Toolkit | Pandas workflows translating SQL logic |
+| Housing Price Forecasting | Time-series forecasting using quarterly macro data |
+
