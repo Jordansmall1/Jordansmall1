@@ -36,7 +36,7 @@ I transform operational data into **dashboards, forecasts, and pricing tools** t
 
 ## Experience
 
-### Indianapolis Mayor’s Office — Data Analyst Intern  
+### Indianapolis Mayor’s Office — Intern  
 **Office of Parks & Recreation | Fall 2025**
 - Built Excel-based **elasticity and pricing optimization models** evaluating 500+ pricing scenarios for 2026 fee proposals  
 - Analyzed **demand elasticity, cost-recovery ratios, and optimal pricing bands**  
