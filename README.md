@@ -23,10 +23,14 @@ I transform operational data into **dashboards, forecasts, and pricing tools** t
 
 ## Technical Skills
 
-**Programming:** Python (pandas, NumPy), SQL (PostgreSQL), R  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,excel,powerbi,r,github,vscode,stata" />
+</p>
+
+**Programming:** Python, SQL (PostgreSQL), R  
 **Analytics:** Regression analysis, time-series forecasting, hypothesis testing  
 **Visualization:** Power BI, Matplotlib, Excel dashboards  
-**Tools:** PostgreSQL, GitHub, Jupyter Notebook, VS Code, Stata
+**Tools:** GitHub, Jupyter Notebook, VS Code, Stata
 
 ---
 
