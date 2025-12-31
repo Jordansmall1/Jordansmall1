@@ -13,7 +13,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I am a senior majoring in **Quantitative Economics** at **Indiana University Indianapolis** specializing in **SQL analytics, Python data workflows, and Excel-based financial modeling**.
 
@@ -21,7 +21,7 @@ I transform operational data into **dashboards, forecasts, and pricing tools** t
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 **Programming:** Python (pandas, NumPy), SQL (PostgreSQL), R  
 **Analytics:** Regression analysis, time-series forecasting, hypothesis testing  
@@ -30,7 +30,7 @@ I transform operational data into **dashboards, forecasts, and pricing tools** t
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Indianapolis Mayor’s Office — Data Analyst Intern  
 **Office of Parks & Recreation | Fall 2025**
@@ -48,7 +48,7 @@ I transform operational data into **dashboards, forecasts, and pricing tools** t
 
 ---
 
-## ⭐ Featured Projects
+## Featured Projects
 
 | Project | Description |
 |-------|-------------|
@@ -59,7 +59,7 @@ I transform operational data into **dashboards, forecasts, and pricing tools** t
 
 ---
 
-## 📫 Contact
+## Contact
 
 📧 **jordsmal@iu.edu**  
 🔗 **https://linkedin.com/in/jordan-small-6b142425a**
