@@ -89,8 +89,8 @@ FROM public.heart_patient_data;
 |-------|-------------|
 | **Indy Parks Revenue & Elasticity Model** | Multi-tab Excel system for dashboards, elasticity estimation, revenue forecasting, cost-recovery analysis, and peer-city pricing comparisons |
 | **U.S. Housing & Land Price Forecasting** | ARIMA, AR(1)/AR(2), Holt-Winters models with 95% confidence interval forecasts |
-| **SQL → Python Analytics Toolkit** | PostgreSQL schemas, advanced SQL (JOINs, CTEs, window functions) integrated with Pandas automation pipelines |
-| **CAPM Analysis in R** | CAPM regression on Apple vs market using Yahoo Finance data |
+| *Heart Disease Risk Dashboard** | PostgreSQL schemas to power Bi automation pipelines |
+
 
 ---
 
