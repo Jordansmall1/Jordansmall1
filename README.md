@@ -80,7 +80,7 @@ SELECT
     END AS chol_risk
 FROM public.heart_patient_data;
 
-
+```
 ---
 
 ## Featured Projects
