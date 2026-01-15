@@ -81,12 +81,6 @@ FROM public.heart_patient_data;
 
 ---
 
-## 📊 Featured Analytics Project – Heart Disease Risk Dashboard
-
-<a href="https://github.com/Jordansmall1/Heart_Disease_Risk_Analytics">
-  <img src="https://raw.githubusercontent.com/Jordansmall1/Heart_Disease_Risk_Analytics/main/images/dashboard.png" width="100%" />
-</a>
-
 ## Featured Projects
 
 | Project | Description |
