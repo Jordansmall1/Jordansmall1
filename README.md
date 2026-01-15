@@ -52,6 +52,37 @@ I transform operational data into **dashboards, forecasts, and pricing tools** t
 
 ---
 
+## 📊 Featured Analytics Project – Heart Disease Risk Dashboard
+
+<a href="https://github.com/Jordansmall1/Heart_Disease_Risk_Analytics">
+  <img src="https://raw.githubusercontent.com/Jordansmall1/Heart_Disease_Risk_Analytics/main/images/dashboard.png" width="100%" />
+</a>
+
+### Heart Disease Risk Analytics  
+**Tools:** SQL • Power BI • Excel • CSV Healthcare Data
+
+This project analyzes patient-level heart disease data to identify high-risk populations and key clinical indicators using structured SQL logic and Power BI visualization.
+
+**Key Features**
+- Overall disease prevalence and patient KPIs  
+- Disease risk segmented by **age group** and **gender**  
+- Chest pain classification distribution  
+- Cholesterol risk bucket analysis  
+
+### SQL Example – Cholesterol Risk Bucketing
+
+```sql
+SELECT
+    CASE
+        WHEN chol >= 240 THEN 'High (240+)'
+        WHEN chol BETWEEN 200 AND 239 THEN 'Borderline (200–239)'
+        ELSE 'Normal (<200)'
+    END AS chol_risk
+FROM public.heart_patient_data;
+
+
+---
+
 ## Featured Projects
 
 | Project | Description |
