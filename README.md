@@ -33,25 +33,6 @@ I transform operational data into **dashboards, forecasts, and pricing tools** t
 **Tools:** GitHub, Jupyter Notebook, VS Code, Stata
 
 ---
-
-## Experience
-
-### Indianapolis Mayor’s Office — Intern  
-**Office of Parks & Recreation | Fall 2025**
-- Built Excel-based **elasticity and pricing optimization models** evaluating 500+ pricing scenarios for 2026 fee proposals  
-- Analyzed **demand elasticity, cost-recovery ratios, and optimal pricing bands**  
-- Conducted peer-city benchmarking across 5 U.S. cities  
-- Supported CFO-level revenue strategy decisions
-
-### Undergraduate Researcher — Department of Economics  
-**Indiana University | 2025–2026**
-- Built **AR(1)/AR(2) and ARIMA forecasting models** for U.S. housing prices  
-- Performed ACF/PACF diagnostics, log-differencing, and Dickey-Fuller testing  
-- Implemented Holt-Winters, naïve, drift, and exponential smoothing models  
-- Presented findings at **IU Graduate Day of Scholarship**
-
----
-
 ## 📊 Featured Analytics Project – Heart Disease Risk Dashboard
 
 <a href="https://github.com/Jordansmall1/Heart_Disease_Risk_Analytics">
@@ -82,6 +63,29 @@ FROM public.heart_patient_data;
 
 ```
 ---
+## Experience
+
+### Indianapolis Mayor’s Office — Intern  
+**Office of Parks & Recreation | Fall 2025**
+- Built Excel-based **elasticity and pricing optimization models** evaluating 500+ pricing scenarios for 2026 fee proposals  
+- Analyzed **demand elasticity, cost-recovery ratios, and optimal pricing bands**  
+- Conducted peer-city benchmarking across 5 U.S. cities  
+- Supported CFO-level revenue strategy decisions
+
+### Undergraduate Researcher — Department of Economics  
+**Indiana University | 2025–2026**
+- Built **AR(1)/AR(2) and ARIMA forecasting models** for U.S. housing prices  
+- Performed ACF/PACF diagnostics, log-differencing, and Dickey-Fuller testing  
+- Implemented Holt-Winters, naïve, drift, and exponential smoothing models  
+- Presented findings at **IU Graduate Day of Scholarship**
+
+---
+
+## 📊 Featured Analytics Project – Heart Disease Risk Dashboard
+
+<a href="https://github.com/Jordansmall1/Heart_Disease_Risk_Analytics">
+  <img src="https://raw.githubusercontent.com/Jordansmall1/Heart_Disease_Risk_Analytics/main/images/dashboard.png" width="100%" />
+</a>
 
 ## Featured Projects
 
