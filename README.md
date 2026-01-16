@@ -37,7 +37,7 @@ I transform operational data into **dashboards, forecasts, and pricing tools** t
 | Project | Description |
 |--------|-------------|
 | **[Indy Parks Revenue & Elasticity Model](https://github.com/Jordansmall1/Indy-Parks-Revenue-Model)** | Multi-tab Excel system for dashboards, elasticity estimation, revenue forecasting, cost-recovery analysis, and peer-city pricing comparisons |
-| **[U.S. Housing & Land Price Forecasting](https://github.com/Jordansmall1/Housing-Forecast-Portfolio)** | ARIMA, AR(1)/AR(2), Holt-Winters models with 95% confidence interval forecasts |
+| **[U.S. Housing & Land Price Forecasting]([https://github.com/Jordansmall1/Housing-Forecast-Portfolio](https://github.com/Jordansmall1/Indiana-University-Housing-Land-Prices-Research))** | ARIMA, AR(1)/AR(2), Holt-Winters models with 95% confidence interval forecasts |
 | **[Heart Disease Risk Dashboard](https://github.com/Jordansmall1/Heart_Disease_Risk_Analytics)** | PostgreSQL schemas powering Power BI automation pipelines |
 
 ---
