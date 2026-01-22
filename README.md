@@ -23,7 +23,7 @@ I transform operational data into **dashboards, forecasts, and pricing tools** t
 ## 📊 Featured Analytics Project – Heart Disease Risk Dashboard
 
 <a href="https://github.com/Jordansmall1/Heart_Disease_Risk_Analytics">
-  <img src="https://raw.githubusercontent.com/Jordansmall1/Heart_Disease_Risk_Analytics/main/images/dashboard.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Jordansmall1/Heart_Disease_Risk_Analytics/main/images/J.S heart anlytics-1.png" width="100%" />
 </a>
 
 ### Heart Disease Risk Analytics  
