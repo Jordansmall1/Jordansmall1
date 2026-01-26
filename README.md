@@ -18,6 +18,16 @@
 I am a senior majoring in **Quantitative Economics** at **Indiana University Indianapolis** specializing in **SQL analytics, Python data workflows, and Excel-based financial modeling**.
 
 I transform operational data into **dashboards, forecasts, and pricing tools** that support real business decision-making.
+ 
+---
+
+## Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| **[Indy Parks Revenue & Elasticity Model](https://github.com/Jordansmall1/Indy-Parks-Revenue-Model)** | Multi-tab Excel system for dashboards, elasticity estimation, revenue forecasting, cost-recovery analysis, and peer-city pricing comparisons |
+| **[U.S. Housing & Land Price Forecasting](https://github.com/Jordansmall1/Indiana-University-Housing-Land-Prices-Research)** | ARIMA, AR(1)/AR(2), Holt-Winters models with 95% confidence interval forecasts |
+| **[Heart Disease Risk Dashboard](https://github.com/Jordansmall1/Heart_Disease_Risk_Analytics)** | PostgreSQL schemas powering Power BI automation pipelines |
 
 ---
 ## 📊 Featured Analytics Project – Heart Disease Risk Dashboard
@@ -60,15 +70,6 @@ FROM public.heart_patient_data;
 **Visualization:** Power BI, Matplotlib, Excel dashboards  
 **Tools:** GitHub, Jupyter Notebook, VS Code, Stata
 
-## Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| **[Indy Parks Revenue & Elasticity Model](https://github.com/Jordansmall1/Indy-Parks-Revenue-Model)** | Multi-tab Excel system for dashboards, elasticity estimation, revenue forecasting, cost-recovery analysis, and peer-city pricing comparisons |
-| **[U.S. Housing & Land Price Forecasting](https://github.com/Jordansmall1/Indiana-University-Housing-Land-Prices-Research)** | ARIMA, AR(1)/AR(2), Holt-Winters models with 95% confidence interval forecasts |
-| **[Heart Disease Risk Dashboard](https://github.com/Jordansmall1/Heart_Disease_Risk_Analytics)** | PostgreSQL schemas powering Power BI automation pipelines |
-
----
 ## Experience
 
 ### Indianapolis Mayor’s Office — Intern  
